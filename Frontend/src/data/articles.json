@@ -1,0 +1,128 @@
+[
+    {
+        "authorName": "Shawn Prasad",
+        "id": 1,
+        "title": "Climate Change",
+        "abstract": "Climate change is a great concern in today’s scenario. This problem has surfaced in the last few decades. Greenhouse gases are the major cause of climate change. Environmental changes have several destructive impacts such as the melting of glaciers, change in seasons, epidemics, etc.",
+        "imageUrl": "https://postcourier.com.pg/wp-content/uploads/2017/12/LN_Climate-Change-effects_00.jpg",
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Priti Singh",
+            "title": "Good",
+            "comment": "The article is good",
+            "createdAt": "2019-01-01"
+        }
+    },
+    {
+        "authorName": "John Doe",
+        "id": 2,
+        "title": "Global Warming",
+        "abstract": "The burning of fossil fuels, emissions from the automobiles and chlorofluorocarbons add to the greenhouse gases in the atmosphere. This has led to an increase in earth’s temperature causing environmental changes. This increase in temperature across the globe is known as global warming.",
+        "imageUrl": "https://external-preview.redd.it/WUcabmYF4I_RC5Kuv__Key41i_YVQGi1YBGCIEbzdWg.jpg?auto=webp&s=460aee8863443544588b4a8fac98c2008dba7307",
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Jain Mathew",
+            "title": "Good",
+            "comment": "The article is good",
+            "createdAt": "2019-01-01"
+        }
+    },
+    {
+        "authorName": "Jack Shepard",
+        "id": 3,
+        "title": "Ozone Layer Depletion",
+        "abstract": "The ozone layer is a layer of concentrated ozone gas. It protects us from the sun’s harmful ultraviolet rays. This very important layer is being destroyed by CFCs (chlorofluorocarbons), which are used in industries and everyday life (e.g. aerosol cans).",
+        "imageUrl": "https://cdn.iflscience.com/images/a3377ca4-f2d5-5dfb-92e6-251d877b29f8/default-1464364251-206-ozone-depletion-could-have-been-much-worse.jpg",
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Sateesh Krishna",
+            "title": "Awesome",
+            "comment": "The article is awesome",
+            "createdAt": "2019-01-01"
+        }
+    },
+    {
+        "authorName": "Sheldon Cooper",
+        "title": "Water Pollution",
+        "abstract": "The introduction of harmful substances into rivers, oceans, lakes and ponds, which changes the physical, chemical or biological condition of the water is called water pollution. The polluted water lacks oxygen and therefore the organisms die. ",
+        "imageUrl": "https://th.bing.com/th/id/R.d6252cabcdd37f8bba966bdc2ecf6800?rik=j2CV96kpVXEN2Q&riu=http%3a%2f%2f1.bp.blogspot.com%2f-jrsNbtTErJk%2fUUi1hOI4CuI%2fAAAAAAAAEG8%2fXpelmIautJE%2fs1600%2fwater%2bpollution.jpg&ehk=OLOfqRu5QSJ7uR%2bPSaaUANxqgATlOLez7nBjHdHRjxY%3d&risl=&pid=ImgRaw&r=0",
+        "id": 4,
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Sona James",
+            "title": "Poor",
+            "comment": "Need to improve",
+            "createdAt": "2019-01-01"
+        }
+    },
+    {
+        "authorName": "Rachel Green",
+        "title": "Air Pollution",
+        "abstract": "Air pollution is the result of emissions from the industries, automobiles, and increasing use of fossil fuels. The gaseous emissions have added to an increase in the temperature of the earth. Not only this, but it had also increased the risk of diseases among individuals.",
+        "imageUrl": "https://domf5oio6qrcr.cloudfront.net/medialibrary/10245/GettyImages-1098018152.jpg",
+        "id": 5,
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Sini Tom",
+            "title": "Awesome",
+            "comment": "The article is awesome",
+            "createdAt": "2019-01-01"
+        }
+    },
+    {
+        "authorName": "Monica Geller",
+        "title": "Solid Waste Management",
+        "abstract": "Solid-waste management is defined as the discipline associated with the generation, storage, collection, transfer and transport, processing, and disposal of solid waste in a manner that it does not have a harmful effect on the environment.",
+        "imageUrl": "https://www.pdp.co.nz/wp-content/uploads/2016/12/solid-waste-min.jpg",
+        "id": 6,
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Anju Siva",
+            "title": "Good",
+            "comment": "The article is good",
+            "createdAt": "2019-01-01"
+        }
+    },
+    {
+        "authorName": "John Snow",
+        "id": 7,
+        "title": "Deforestation",
+        "abstract": "Deforestation is the depletion of trees and forests at an alarming rate. The trees provide us with oxygen, several raw materials and also maintain the temperature of the earth. Due to the depletion of trees for commercial purposes, there has been a drastic change in the earth’s climate.",
+        "imageUrl": "https://cff2.earth.com/uploads/2019/09/26130952/Global-deforestation-and-the-slow-progress-to-protect-the-world%E2%80%99s-forests.jpg",
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Kumar S",
+            "title": "Excellent",
+            "comment": "The article is excellent",
+            "createdAt": "2019-01-01"
+        }
+    },
+    {
+        "authorName": "Rick Grimmes",
+        "id": 8,
+        "title": "Overpopulation",
+        "abstract": "The earth’s population is increasing drastically. It is estimated to be more than seven billion. The increasing population has led to a shortage of resources. If this continues, it will be very difficult to sustain such a huge population. The other environmental issues including pollution, waste management, deforestation, climate change and global warming are all associated with over-population.",
+        "imageUrl": "https://cff2.earth.com/uploads/2018/03/16143557/Overpopulation-vs-overconsumption.jpg",
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Pooja Kapoor",
+            "title": "Good",
+            "comment": "The article is good",
+            "createdAt": "2019-01-01"
+        }
+    },
+    {
+        "authorName": "Noise Pollution",
+        "id": 9,
+        "title": "Danerys Targeryan",
+        "abstract": "Noise pollution is generally defined as regular exposure to elevated sound levels that may lead to adverse effects in humans or other living organisms. According to the World Health Organization, sound levels less than 70 dB are not damaging to living organisms, regardless of how long or consistent the exposure is.",
+        "imageUrl": "https://th.bing.com/th/id/R.a56eea1a9bb5580a422536bb5c2782f7?rik=ESxZtDT9rcehwg&riu=http%3a%2f%2fphoenixdesign.com%2fsite%2fassets%2ffiles%2f9670%2fscream-klein.jpg&ehk=6ciVZd%2bSDYFx7LUDiWAqDyfYevWzu%2ff7fRJumf6oTxs%3d&risl=&pid=ImgRaw&r=0",
+        "createdAt": "2019-01-01",
+        "comments": {
+            "commenter": "Leonard James",
+            "title": "Good",
+            "comment": "The article is good",
+            "createdAt": "2019-01-01"
+        }
+    }
+]

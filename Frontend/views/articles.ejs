@@ -1,0 +1,32 @@
+<%- include( 'partials/head', { title: title } ) -%>
+    <%- include( 'partials/nav', { nav: nav } ) -%>
+
+        <main class="container my-4">
+            <h1>List of Articles</h1>
+            <hr />
+            <div class="row">
+            <%
+                articles.forEach(
+                    article => {
+            %>
+                    <div class="col-12 col-md-6 col-lg-4 d-flex align-items-stretch my-3">
+                        <div class="card p-3">
+                            <img src="<%= article.imageUrl %>" class="card-img-top" alt="<%= article.name %>">
+                            <div class="card-body">
+                                <h6 class="card-title"><%= article.authorName %></h6>
+                                <div class="card-text">
+                                    <h5 class="card-title"><%= article.title %></h5>
+                                    <p class="card-title"><%= article.abstract %></p>
+                                </div>
+                                <a href="<%= '/articles/' + article.id %>" class="btn btn-primary">Read full Article</a>
+                            </div>
+                        </div>
+                    </div>
+            <% 
+                    }
+                );
+            %>
+            </div>
+        </main>
+
+<%- include( 'partials/foot' ) -%>
